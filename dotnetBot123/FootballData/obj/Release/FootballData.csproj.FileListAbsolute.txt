@@ -1,0 +1,10 @@
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\bin\Release\FootballData.dll.config
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\bin\Release\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\bin\Release\FootballData.pdb
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\obj\Release\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\obj\Release\FootballData.pdb
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\bin\Release\FootballData.dll.config
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\bin\Release\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\bin\Release\FootballData.pdb
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\obj\Release\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\obj\Release\FootballData.pdb

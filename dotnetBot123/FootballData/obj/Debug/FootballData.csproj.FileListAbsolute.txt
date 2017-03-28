@@ -1,0 +1,12 @@
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\obj\Debug\FootballData.csprojResolveAssemblyReference.cache
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\bin\Debug\FootballData.dll.config
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\bin\Debug\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\bin\Debug\FootballData.pdb
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\obj\Debug\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\dotnetBot123\FootballData\obj\Debug\FootballData.pdb
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\bin\Debug\FootballData.dll.config
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\bin\Debug\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\bin\Debug\FootballData.pdb
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\obj\Debug\FootballData.csprojResolveAssemblyReference.cache
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\obj\Debug\FootballData.dll
+C:\Users\balmu\Desktop\DOTNET2K16\p2\Bot-Sample-1\dotnetBot123\FootballData\obj\Debug\FootballData.pdb
